@@ -1,11 +1,16 @@
 ---
 layout: page
 title: About
+date: 2016-07-03 21:28:59
 permalink: /about/
 ---
+ 
+Eu sou Jodiel Fabricio, um futuro Cientista da Computação.
+Adoro um bom café, e espero viver o suficiente para lhe conhecer. ;)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### Eu nas redes socias
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+- [My Twitter](https://twitter.com/sjodiel)
+- [My Facebook](https://facebook.com/sjodiel)
+- [My Google+](https://plus.google.com/+JodielFabricio)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
