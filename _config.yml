@@ -14,7 +14,7 @@ gems: [jekyll-paginate]
 paginate: 3
 paginate_path: "/blog/page/:num/"
 comments: true
-blog-site : true
+blog-site : false
 
 #source: source
 destination: _site
