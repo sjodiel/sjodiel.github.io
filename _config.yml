@@ -61,5 +61,5 @@ navbar:
   #   title: Resume
   # - slug: skills
   #   title: Skills
-  - slug: blog
-    title: Blog
+  # slug: blog
+  #  title: Blog
